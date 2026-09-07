@@ -8,3 +8,8 @@ console.log("money honey");
 const a=12;
 const b=13;
 console.log(a+b);
+
+function showage(){
+    console.log(age);
+}
+showage();
